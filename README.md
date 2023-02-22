@@ -52,7 +52,7 @@ Autor
 <img src="https://avatars.githubusercontent.com/u/84017071?s=40&v=4">
 
 
-[Eric Narciso] 
+[Eric Narciso](https://www.linkedin.com/in/eric-np-santos/) 
 
  [![Linkedin Badge](https://img.shields.io/badge/-Eric-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-np-santos/)](https://www.linkedin.com/in/eric-np-santos/)  
 
